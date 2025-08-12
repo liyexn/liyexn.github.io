@@ -7,10 +7,10 @@ permalink: /cv
 # 🎓 &nbsp;&nbsp; Education
 <ul style="padding-left: 0; margin-left: 0; list-style-position: inside;">
   <li style="padding-left: 0; margin-left: 0;">
-    2016.09 - 2020.11 <br> Ph.D. in Computer Science and Engineering, <a href="http://en.hitsz.edu.cn/">Hong Kong University of Science and Technology</a> &nbsp; <img class="svg" src="/images/hkust_logo.png" width="30pt"><br>
+    2016.09 - 2020.11 <br> Ph.D. in Computer Science and Engineering, <a href="https://hkust.edu.hk/">Hong Kong University of Science and Technology</a> &nbsp; <img class="svg" src="/images/hkust_logo.png" width="30pt"><br>
   </li>
   <li style="padding-left: 0; margin-left: 0;">
-    2013.09 - 2015.08 <br> MPhil in Computer Science and Engineering, <a href="http://en.hitsz.edu.cn/">Hong Kong University of Science and Technology</a> &nbsp; <img class="svg" src="/images/hkust_logo.png" width="30pt"><br>
+    2013.09 - 2015.08 <br> MPhil in Computer Science and Engineering, <a href="https://hkust.edu.hk/">Hong Kong University of Science and Technology</a> &nbsp; <img class="svg" src="/images/hkust_logo.png" width="30pt"><br>
   </li>
   <li style="padding-left: 0; margin-left: 0;">
     2009.09 - 2013.07 <br> B.S. in Mathematics and Applied Mathematics, <a href="http://en.xjtu.edu.cn/">Xi'an Jiaotong University</a> &nbsp; <img class="svg" src="/images/XJTU.png" width="40pt"> 
