@@ -52,8 +52,6 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
     Siyuan Qi, Shuo Chen, <code>Yexin Li</code>, Xiangyu Kong, Junqi Wang, Bangcheng Yang, Pring Wong, Yifan Zhong, Xiaoyuan Zhang, Zhaowei Zhang, Nian Liu, Wei Wang, Yaodong Yang, Song-Chun Zhu. CivRealm: A Learning and Reasoning Odyssey in Civilization for Decision-Making Agents. <i>International Conference on Learning Representations. <b> ICLR 2024 </b></i> &nbsp;&nbsp; <a href="https://arxiv.org/pdf/2401.10568"><i style="font-size: 20px;" class="fa fa-file-pdf"></i></a>
   </li>
 </ul>
-<br>
-
 
 ## 2023 and Before
 <ul style="padding-left: 0; margin-left: 0; list-style-position: inside;">
