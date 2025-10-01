@@ -22,6 +22,9 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
 # 🔥 &nbsp;&nbsp; News
 <div style="height: 150px; overflow-y: scroll;">
   <div styple="padding-left: 1em;">
+    <p>• <em>2026.01 - 2028.12</em> &nbsp; 🎉 &nbsp; National Natural Science Foundation of China</p>
+  </div>
+  <div styple="padding-left: 1em;">
     <p>• <em>2025.05</em> &nbsp; 🎉 &nbsp; 2 paper accepted to ACL 2025</p>
   </div>
 </div>
