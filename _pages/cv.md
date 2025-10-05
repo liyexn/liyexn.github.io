@@ -24,7 +24,7 @@ permalink: /cv
     2023.04 - Now <br> Researcher at the Multi-Agent Systems Lab, <a href="https://www.bigai.ai/">Beijing Institute for General Artificial Intelligence</a> &nbsp; <img class="svg" src="/images/BIGAI.png" width="200pt"> <br>
   </li>
   <li style="padding-left: 0; margin-left: 0;">
-    2021.01 - 2023.03 <br> Doctor Management Trainee at <a href="https://www.jd.com">JD.COM</a> &nbsp; <img class="svg" src="/images/JD_COM.png" width="70pt"> <br>
+    2021.01 - 2023.03 <br> Doctor Management Trainee at <a href="https://www.jd.com">JD.COM</a> &nbsp; <img class="svg" src="/images/JD_COM.png" width="80pt"> <br>
   </li>
   <li style="padding-left: 0; margin-left: 0;">
     2017.05 - 2018.01 <br> Research Intern at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia-zh-cn/">Microsoft Research Aisa </a> &nbsp;&nbsp; <img class="svg" src="/images/MSRA.png" width="50pt">

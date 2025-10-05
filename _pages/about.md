@@ -19,6 +19,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
 
 
 
+
 # 🔥 &nbsp;&nbsp; News
 <div style="height: 150px; overflow-y: scroll;">
   <div styple="padding-left: 1em;">
@@ -28,10 +29,11 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
     <p>• <em>2025.05</em> &nbsp; 🎉 &nbsp; 2 paper accepted to ACL 2025</p>
   </div>
 </div>
-
-
-
 <br>
+
+
+
+
 # 📝 &nbsp;&nbsp; Selected Publications
 
 ## 2025
@@ -90,21 +92,24 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
     <code>Yexin Li</code>, Y. Zheng, Huichu Zhang, Lei. Chen. Traffic Prediction in a Bike-Sharing System. <i>ACM International Conference on Advances in Geographical Information Systems. <b>SIGSPATIAL 2015 </b></i> &nbsp;&nbsp; <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/traffic20prediction20in20a20bike20sharing20system.pdf"><i style="font-size: 20px;" class="fa fa-file-pdf"></i></a>
   </li>
 </ul>
-
-
 <br>
+
+
+
+
 # 🎓 &nbsp;&nbsp; Education
 <ul style="padding-left: 0; margin-left: 0; list-style-position: inside;">
   <li style="padding-left: 0; margin-left: 0;">
-    <b>2016.09 - 2020.11</b> <br> Ph.D. in Computer Science and Engineering, <a href="https://hkust.edu.hk/">the Hong Kong University of Science and Technology</a> &nbsp; <img class="svg" src="/images/hkust_logo.png" width="20pt"><br>
+    <b>2016.09 - 2020.11</b> <br> Ph.D. in Computer Science and Engineering, <a href="https://hkust.edu.hk/">Hong Kong University of Science and Technology</a> &nbsp; <br>
   </li>
   <li style="padding-left: 0; margin-left: 0;">
-    <b>2013.09 - 2015.08</b> <br> MPhil in Computer Science and Engineering, <a href="https://hkust.edu.hk/">the Hong Kong University of Science and Technology</a> &nbsp; <img class="svg" src="/images/hkust_logo.png" width="20pt"><br>
+    <b>2013.09 - 2015.08</b> <br> MPhil in Computer Science and Engineering, <a href="https://hkust.edu.hk/">Hong Kong University of Science and Technology</a> &nbsp; <br>
   </li>
   <li style="padding-left: 0; margin-left: 0;">
-    <b>2009.09 - 2013.07</b> <br> B.S. in Mathematics and Applied Mathematics, <a href="http://en.xjtu.edu.cn/">Xi'an Jiaotong University</a> &nbsp; <img class="svg" src="/images/XJTU.png" width="35pt"> 
+    <b>2009.09 - 2013.07</b> <br> B.S. in Mathematics and Applied Mathematics, <a href="http://en.xjtu.edu.cn/">Xi'an Jiaotong University</a> &nbsp;  
   </li>
 </ul>
+<br>
 
 
 
@@ -112,15 +117,16 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
 # 💼 &nbsp;&nbsp; Work Experience
 <ul style="padding-left: 0; margin-left: 0; list-style-position: inside;">
   <li style="padding-left: 0; margin-left: 0;">
-    <b>2023.04 - Now</b> <br> Researcher at the Multi-Agent Systems Lab, <a href="https://www.bigai.ai/">Beijing Institute for General Artificial Intelligence</a> &nbsp; <img class="svg" src="/images/BIGAI.png" width="180pt"> <br>
+    <b>2023.04 - Now</b> <br> Researcher at the Multi-Agent Systems Lab, <a href="https://www.bigai.ai/">Beijing Institute for General Artificial Intelligence</a> &nbsp; <br>
   </li>
   <li style="padding-left: 0; margin-left: 0;">
-    <b>2021.01 - 2023.03</b> <br> Doctor Management Trainee at <a href="https://www.jd.com">JD.COM</a> &nbsp; <img class="svg" src="/images/JD_COM.png" width="70pt"> <br>
+    <b>2021.01 - 2023.03</b> <br> Doctor Management Trainee at <a href="https://www.jd.com">JD.COM</a> &nbsp; <br>
   </li>
   <li style="padding-left: 0; margin-left: 0;">
-    <b>2017.05 - 2018.01</b> <br> Research Intern at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia-zh-cn/">Microsoft Research Aisa </a> &nbsp;&nbsp; <img class="svg" src="/images/MSRA.png" width="40pt">
+    <b>2017.05 - 2018.01</b> <br> Research Intern at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia-zh-cn/">Microsoft Research Aisa </a> &nbsp;&nbsp; 
   </li>
 </ul>
+<br>
 
 
 
@@ -140,7 +146,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
     <a href="https://openreview.net/profile?id=~JINJIN_GUO2">Jinjin Guo</a> &nbsp;- &nbsp; Algorithm Engineer at JD.com
   </li>
 </ul>
-<br><br>
+<br><br><br><br>
 
 
 
