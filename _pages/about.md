@@ -12,7 +12,7 @@ redirect_from:
 I am a researcher at the Multi-Agent System Lab, <a href="https://www.bigai.ai/">Beijing Institute for General Artificial Intelligence</a>. My research interests include multi-agent systems, reinforcement learning, large language models, and spatio-temporal data mining.
 
 I received my Ph.D. in Computer Science and Engineering from <a href="https://hkust.edu.hk/">the Hong Kong University of Science and Technology</a> under the supervision of <a href="https://www.polyu.edu.hk/dsai/docdrive/personal/yangqiang.html">Prof. Qiang Yang</a>
-and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has been published in top-tier conferences such as ICML, ICLR, ACL, KDD, and CIKM, as well as leading journals including TKDE, Transportation Research Part C.
+and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has been published in top-tier conferences such as ICML, ICLR, ACL, KDD, AAAI, and CIKM, as well as leading journals including TKDE, Transportation Research Part C.
 
 
 >  <span style="color: red; font-weight: bold;">**Hiring PhD students jointly supervised with 上海交通大学 北京理工大学 上海科技大学 <br> - An interest in Multi-agent systems & Large language models & Data mining <br> - Strong code ability <br> - Determination to do high-quality research**</span>
@@ -41,6 +41,26 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
 
 
 # 📝 &nbsp;&nbsp; Selected Publications
+
+## 2026
+<ul style="padding-left: 0; margin-left: 0; list-style-position: inside;">
+  <li style="padding-left: 0; margin-left: 0;">
+    Sijie Ruan, Renchi Jiang, Song Tang, <code>Yexin Li</code>, Weixin Zhai, Xinhao Liu, Bingbing Hu, Hanning Yuan, Caicong Wu, Shuliang Wang.
+    <a href="" style="text-decoration: none; color: blue;">
+      <i>Predictive Mobile Refueling for Agricultural Machinery via Deep Reinforcement Learning.</i>
+    </a>
+    <i>ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. <b>SIGKDD 2026</b></i>
+  </li>
+
+  <li style="padding-left: 0; margin-left: 0;">
+    Zhixiang Zhang, Shuo Chen, <code>Yexin Li</code>, Feng Wang.
+    <a href="" style="text-decoration: none; color: blue;">
+      <i>ADAPT: Adaptive Decentralized Architecture with Perception-Aligned Training for Structural Generalization in Multi-Agent RL.</i>
+    </a>
+    <i>Annual AAAI Conference on Artificial Intelligence. <b>AAAI 2026</b></i>
+  </li>
+</ul>
+
 
 ## 2025
 <ul style="padding-left: 0; margin-left: 0; list-style-position: inside;">
