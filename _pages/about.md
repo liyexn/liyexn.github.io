@@ -12,7 +12,7 @@ redirect_from:
 I am a researcher at the Multi-Agent System Lab, <a href="https://www.bigai.ai/">Beijing Institute for General Artificial Intelligence</a>. My research interests include multi-agent systems, reinforcement learning, large language models, and spatio-temporal data mining.
 
 I received my Ph.D. in Computer Science and Engineering from <a href="https://hkust.edu.hk/">the Hong Kong University of Science and Technology</a> under the supervision of <a href="https://www.polyu.edu.hk/dsai/docdrive/personal/yangqiang.html">Prof. Qiang Yang</a>
-and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has been published in top-tier conferences such as ICML, ICLR, ACL, KDD, AAAI, and CIKM, as well as leading journals including TKDE, Transportation Research Part C.
+and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has been published in top-tier conferences such as ICML, ICLR, ACL, KDD, WWW, AAAI, and CIKM, as well as leading journals including TKDE, Transportation Research Part C.
 
 
 >  <span style="color: red; font-weight: bold;">**Hiring PhD students jointly supervised with 上海交通大学 北京理工大学 上海科技大学 <br> - An interest in Multi-agent systems & Large language models & Data mining <br> - Strong code ability <br> - Determination to do high-quality research**</span>
@@ -22,6 +22,9 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
 
 # 🔥 &nbsp;&nbsp; News
 <div style="height: 150px; overflow-y: scroll;">
+  <div styple="padding-left: 1em;">
+    <p>• <em>2026.01</em> &nbsp; 🎉 &nbsp; 1 paper accepted to WWW 2026</p>
+  </div>
   <div styple="padding-left: 1em;">
     <p>• <em>2025.11</em> &nbsp; 🎉 &nbsp; 1 paper accepted to SIGKDD 2026</p>
   </div>
@@ -41,9 +44,30 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
 
 
 # 📝 &nbsp;&nbsp; Selected Publications
+<p style="font-size: 0.85em; color: gray; margin-top: -8px;">
+  <b>#</b> equal contribution &nbsp;&nbsp; <b>†</b> corresponding authors
+</p>
 
 ## 2026
 <ul style="padding-left: 0; margin-left: 0; list-style-position: inside;">
+  <!--
+  <li style="padding-left: 0; margin-left: 0;">
+    Zheng Zhang, Ziwei Shan, Kaitao Song, <code>Yexin Li</code> <sup><b>†</b></sup>, Kan Ren <sup><b>†</b></sup>.
+    <a href="https://arxiv.org/pdf/2509.26578" style="text-decoration: none; color: blue;">
+      <i>Linking Process to Outcome: Conditional Reward Modeling for LLM Reasoning.</i>
+    </a>
+    <i>arXiv:2509.26578.</i>
+  </li>
+  -->
+
+  <li style="padding-left: 0; margin-left: 0;">
+    Jinjin Guo, <code>Yexin Li</code> <sup><b>†</b></sup>, Zhichao Huang, Jun Fang, Zhiyuan Liu, Chao Liu, Pengzhang Liu, Qixia Jiang.
+    <a href="" style="text-decoration: none; color: blue;">
+      <i>Spectral Disentanglement and Enhancement: A Dual-domain Contrastive Framework for Representation Learning.</i>
+    </a>
+    <i>The ACM Web Conference. <b>WWW 2026</b></i>
+  </li>
+
   <li style="padding-left: 0; margin-left: 0;">
     Sijie Ruan, Renchi Jiang, Song Tang, <code>Yexin Li</code>, Weixin Zhai, Xinhao Liu, Bingbing Hu, Hanning Yuan, Caicong Wu, Shuliang Wang.
     <a href="" style="text-decoration: none; color: blue;">
@@ -92,7 +116,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
   </li>
 
   <li style="padding-left: 0; margin-left: 0;">
-    Siyuan Qi, Shuo Chen, <code>Yexin Li</code>, Xiangyu Kong, Junqi Wang, Bangcheng Yang, Pring Wong, Yifan Zhong, Xiaoyuan Zhang, Zhaowei Zhang, Nian Liu, Wei Wang, Yaodong Yang, Song-Chun Zhu.
+    Siyuan Qi <sup><b>#</b></sup>, Shuo Chen <sup><b>#</b></sup>, <code>Yexin Li</code> <sup><b>#</b></sup>, Xiangyu Kong <sup><b>#</b></sup>, Junqi Wang <sup><b>#</b></sup>, Bangcheng Yang, Pring Wong, Yifan Zhong, Xiaoyuan Zhang, Zhaowei Zhang, Nian Liu, Wei Wang, Yaodong Yang, Song-Chun Zhu.
     <a href="https://arxiv.org/pdf/2401.10568" style="text-decoration: none; color: blue;">
       <i>CivRealm: A Learning and Reasoning Odyssey in Civilization for Decision-Making Agents.</i>
     </a>
