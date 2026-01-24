@@ -159,7 +159,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
   </li>
 
   <li style="padding-left: 0; margin-left: 0;">
-    <code>Yexin Li</code>, Y. Zheng, Q. Yang.
+    <code>Yexin Li</code>, Yu Zheng, Qiang Yang.
     <a href="http://iris.kangry.net/pdf/yexinKDD2019.pdf" style="text-decoration: none; color: blue;">
       <i>Efficient and Effective Express via Contextual Cooperative Reinforcement Learning.</i>
     </a>
@@ -167,7 +167,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
   </li>
 
   <li style="padding-left: 0; margin-left: 0;">
-    <code>Yexin Li</code>, Y. Zheng.
+    <code>Yexin Li</code>, Yu Zheng.
     <a href="http://urban-computing.com/pdf/TKDE2019LiZheng.pdf" style="text-decoration: none; color: blue;">
       <i>Citywide Bike Usage Prediction in a Bike-Sharing System.</i>
     </a>
@@ -175,7 +175,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
   </li>
 
   <li style="padding-left: 0; margin-left: 0;">
-    <code>Yexin Li</code>, Y. Zheng, Q. Yang.
+    <code>Yexin Li</code>, Yu Zheng, Qiang Yang.
     <a href="http://urban-computing.com/pdf/KDD2018dynamic-bike-reposition.pdf" style="text-decoration: none; color: blue;">
       <i>Dynamic Bike Reposition: A Spatio-Temporal Reinforcement Learning Approach.</i>
     </a>
@@ -183,7 +183,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
   </li>
 
   <li style="padding-left: 0; margin-left: 0;">
-    <code>Yexin Li</code>, Y. Zheng, Huichu Zhang, Lei. Chen.
+    <code>Yexin Li</code>, Yu Zheng, Huichu Zhang, Lei Chen.
     <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/traffic20prediction20in20a20bike20sharing20system.pdf" style="text-decoration: none; color: blue;">
       <i>Traffic Prediction in a Bike-Sharing System.</i>
     </a>
