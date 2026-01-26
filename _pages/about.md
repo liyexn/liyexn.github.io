@@ -23,6 +23,9 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
 # 🔥 &nbsp;&nbsp; News
 <div style="height: 150px; overflow-y: scroll;">
   <div styple="padding-left: 1em;">
+    <p>• <em>2026.01</em> &nbsp; 🎉 &nbsp; 1 paper accepted to ICLR 2026</p>
+  </div>
+  <div styple="padding-left: 1em;">
     <p>• <em>2026.01</em> &nbsp; 🎉 &nbsp; 1 paper accepted to WWW 2026</p>
   </div>
   <div styple="padding-left: 1em;">
@@ -50,15 +53,22 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
 
 ## 2026
 <ul style="padding-left: 0; margin-left: 0; list-style-position: inside;">
-  <!--
+
+  <li style="padding-left: 0; margin-left: 0;">
+    <code>Yexin Li</code>.
+    <a href="" style="text-decoration: none; color: blue;">
+      <i>CAE: Repurposing the Critic as an Explorer in Deep Reinforcement Learning.</i>
+    </a>
+    <i>Transactions on Machine Learning Research. <b>TMLR 2026 forthcoming</b></i>
+  </li>
+
   <li style="padding-left: 0; margin-left: 0;">
     Zheng Zhang, Ziwei Shan, Kaitao Song, <code>Yexin Li</code> <sup><b>†</b></sup>, Kan Ren <sup><b>†</b></sup>.
     <a href="https://arxiv.org/pdf/2509.26578" style="text-decoration: none; color: blue;">
       <i>Linking Process to Outcome: Conditional Reward Modeling for LLM Reasoning.</i>
     </a>
-    <i>arXiv:2509.26578.</i>
+    <i>International Conference on Learning Representations. <b>ICLR 2026</b></i>
   </li>
-  -->
 
   <li style="padding-left: 0; margin-left: 0;">
     Jinjin Guo, <code>Yexin Li</code> <sup><b>†</b></sup>, Zhichao Huang, Jun Fang, Zhiyuan Liu, Chao Liu, Pengzhang Liu, Qixia Jiang.
