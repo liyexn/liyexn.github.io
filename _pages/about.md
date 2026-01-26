@@ -63,7 +63,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
   </li>
 
   <li style="padding-left: 0; margin-left: 0;">
-    Zheng Zhang, Ziwei Shan, Kaitao Song, <code>Yexin Li</code> <sup><b>†</b></sup>, Kan Ren <sup><b>†</b></sup>.
+    Zheng Zhang, Ziwei Shan, Kaitao Song, <code>Yexin Li</code> <sup><b>†</b></sup>, Kan Ren&thinsp;<sup><b>†</b></sup>.
     <a href="https://arxiv.org/pdf/2509.26578" style="text-decoration: none; color: blue;">
       <i>Linking Process to Outcome: Conditional Reward Modeling for LLM Reasoning.</i>
     </a>
