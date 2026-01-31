@@ -48,7 +48,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
 
 # 📝 &nbsp;&nbsp; Selected Publications
 <p style="font-size: 0.85em; color: gray; margin-top: -8px;">
-  <b>#</b> equal contribution &nbsp;&nbsp; <b>†</b> corresponding authors
+  <b>#</b> equal contribution &nbsp;&nbsp; <b>‡</b> corresponding authors
 </p>
 
 ## 2026
@@ -63,7 +63,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
   </li>
 
   <li style="padding-left: 0; margin-left: 0;">
-    Zheng Zhang, Ziwei Shan, Kaitao Song, <code>Yexin Li</code> <sup><b>†</b></sup>, Kan Ren&thinsp;<sup><b>†</b></sup>.
+    Zheng Zhang, Ziwei Shan, Kaitao Song, <code>Yexin Li</code> <sup><b>‡</b></sup>, Kan Ren&thinsp;<sup><b>‡</b></sup>.
     <a href="https://arxiv.org/pdf/2509.26578" style="text-decoration: none; color: blue;">
       <i>Linking Process to Outcome: Conditional Reward Modeling for LLM Reasoning.</i>
     </a>
@@ -71,7 +71,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
   </li>
 
   <li style="padding-left: 0; margin-left: 0;">
-    Jinjin Guo, <code>Yexin Li</code> <sup><b>†</b></sup>, Zhichao Huang, Jun Fang, Zhiyuan Liu, Chao Liu, Pengzhang Liu, Qixia Jiang.
+    Jinjin Guo, <code>Yexin Li</code> <sup><b>‡</b></sup>, Zhichao Huang, Jun Fang, Zhiyuan Liu, Chao Liu, Pengzhang Liu, Qixia Jiang.
     <a href="" style="text-decoration: none; color: blue;">
       <i>Spectral Disentanglement and Enhancement: A Dual-domain Contrastive Framework for Representation Learning.</i>
     </a>
