@@ -59,7 +59,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
     <a href="" style="text-decoration: none; color: blue;">
       <i>CAE: Repurposing the Critic as an Explorer in Deep Reinforcement Learning.</i>
     </a>
-    <i>Transactions on Machine Learning Research. <b>TMLR 2026 forthcoming</b></i>
+    <i>Transactions on Machine Learning Research. <b>TMLR 2026</b></i>
   </li>
 
   <li style="padding-left: 0; margin-left: 0;">
