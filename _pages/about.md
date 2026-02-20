@@ -56,7 +56,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
 
   <li style="padding-left: 0; margin-left: 0;">
     <code>Yexin Li</code>.
-    <a href="" style="text-decoration: none; color: blue;">
+    <a href="https://openreview.net/pdf?id=54MOD02xC2" style="text-decoration: none; color: blue;">
       <i>CAE: Repurposing the Critic as an Explorer in Deep Reinforcement Learning.</i>
     </a>
     <i>Transactions on Machine Learning Research. <b>TMLR 2026</b></i>
@@ -72,7 +72,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
 
   <li style="padding-left: 0; margin-left: 0;">
     Jinjin Guo, <code>Yexin Li</code> <sup><b>‡</b></sup>, Zhichao Huang, Jun Fang, Zhiyuan Liu, Chao Liu, Pengzhang Liu, Qixia Jiang.
-    <a href="" style="text-decoration: none; color: blue;">
+    <a href="https://www.arxiv.org/pdf/2602.09066" style="text-decoration: none; color: blue;">
       <i>Spectral Disentanglement and Enhancement: A Dual-domain Contrastive Framework for Representation Learning.</i>
     </a>
     <i>The ACM Web Conference. <b>WWW 2026</b></i>
