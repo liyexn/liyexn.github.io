@@ -59,7 +59,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
     <a href="https://openreview.net/pdf?id=54MOD02xC2" style="text-decoration: none; color: blue;">
       <i>CAE: Repurposing the Critic as an Explorer in Deep Reinforcement Learning.</i>
     </a>
-    <i>Transactions on Machine Learning Research. <b>TMLR 2026</b></i>
+    <i><b>TMLR 2026</b></i>
   </li>
 
   <li style="padding-left: 0; margin-left: 0;">
@@ -67,7 +67,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
     <a href="https://arxiv.org/pdf/2509.26578" style="text-decoration: none; color: blue;">
       <i>Linking Process to Outcome: Conditional Reward Modeling for LLM Reasoning.</i>
     </a>
-    <i>International Conference on Learning Representations. <b>ICLR 2026</b></i>
+    <i><b>ICLR 2026</b></i>
   </li>
 
   <li style="padding-left: 0; margin-left: 0;">
@@ -75,7 +75,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
     <a href="https://www.arxiv.org/pdf/2602.09066" style="text-decoration: none; color: blue;">
       <i>Spectral Disentanglement and Enhancement: A Dual-domain Contrastive Framework for Representation Learning.</i>
     </a>
-    <i>The ACM Web Conference. <b>WWW 2026</b></i>
+    <i><b>WWW 2026</b></i>
   </li>
 
   <li style="padding-left: 0; margin-left: 0;">
@@ -83,7 +83,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
     <a href="" style="text-decoration: none; color: blue;">
       <i>Predictive Mobile Refueling for Agricultural Machinery via Deep Reinforcement Learning.</i>
     </a>
-    <i>ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. <b>SIGKDD 2026</b></i>
+    <i><b>SIGKDD 2026</b></i>
   </li>
 
   <li style="padding-left: 0; margin-left: 0;">
@@ -91,7 +91,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
     <a href="" style="text-decoration: none; color: blue;">
       <i>ADAPT: Adaptive Decentralized Architecture with Perception-Aligned Training for Structural Generalization in Multi-Agent RL.</i>
     </a>
-    <i>Annual AAAI Conference on Artificial Intelligence. <b>AAAI 2026</b></i>
+    <i><b>AAAI 2026</b></i>
   </li>
 </ul>
 
@@ -103,7 +103,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
     <a href="https://arxiv.org/pdf/2505.19966" style="text-decoration: none; color: blue;">
       <i>Learning to Select In-Context Demonstration Preferred by Large Language Model.</i>
     </a>
-    <i>Annual Meeting of the Association for Computational Linguistics. <b>ACL Findings 2025</b></i>
+    <i><b>ACL Findings 2025</b></i>
   </li>
 
   <li style="padding-left: 0; margin-left: 0;">
@@ -111,7 +111,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
     <a href="https://arxiv.org/pdf/2501.00581" style="text-decoration: none; color: blue;">
       <i>Are the Values of LLMs Structurally Aligned with Humans? A Causal Perspective.</i>
     </a>
-    <i>Annual Meeting of the Association for Computational Linguistics. <b>ACL Findings 2025</b></i>
+    <i><b>ACL Findings 2025</b></i>
   </li>
 </ul>
 
@@ -122,7 +122,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
     <a href="https://arxiv.org/pdf/2407.00567" style="text-decoration: none; color: blue;">
       <i>A Contextual Combinatorial Bandit Approach to Negotiation.</i>
     </a>
-    <i>International Conference on Machine Learning. <b>ICML 2024</b></i>
+    <i><b>ICML 2024</b></i>
   </li>
 
   <li style="padding-left: 0; margin-left: 0;">
@@ -130,7 +130,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
     <a href="https://arxiv.org/pdf/2401.10568" style="text-decoration: none; color: blue;">
       <i>CivRealm: A Learning and Reasoning Odyssey in Civilization for Decision-Making Agents.</i>
     </a>
-    <i>International Conference on Learning Representations. <b>ICLR 2024</b></i>
+    <i><b>ICLR 2024</b></i>
   </li>
 </ul>
 
@@ -141,7 +141,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
     <a href="https://www.zhangjunbo.org/pdf/2023_TRC_MMSTNet.pdf" style="text-decoration: none; color: blue;">
       <i>A Macro–Micro Spatio-temporal Neural Network for Traffic Prediction.</i>
     </a>
-    <i>Transportation Research Part C: Emerging Technologies. <b>TR Part C 2023</b></i>
+    <i><b>TRC 2023</b></i>
   </li>
 
   <li style="padding-left: 0; margin-left: 0;">
@@ -149,7 +149,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
     <a href="http://urban-computing.com/pdf/TKDE_ParingPatrol.pdf" style="text-decoration: none; color: blue;">
       <i>Crowd-Sensing Enhanced Parking Patrol Using Sharing Bikes’ Trajectories.</i>
     </a>
-    <i>IEEE Transactions on Knowledge and Data Engineering. <b>TKDE 2021</b></i>
+    <i><b>TKDE 2021</b></i>
   </li>
 
   <li style="padding-left: 0; margin-left: 0;">
@@ -157,7 +157,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
     <a href="http://iris.kangry.net/pdf/cikm_Cooperative_20.pdf" style="text-decoration: none; color: blue;">
       <i>Cooperative Multi-Agent Reinforcement Learning in Express System.</i>
     </a>
-    <i>ACM International Conference on Information and Knowledge Management. <b>CIKM 2020</b></i>
+    <i><b>CIKM 2020</b></i>
   </li>
 
   <li style="padding-left: 0; margin-left: 0;">
@@ -165,7 +165,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
     <a href="https://www.zhangjunbo.org/pdf/2020_KDD_AutoST.pdf" style="text-decoration: none; color: blue;">
       <i>AutoST: Efficient Neural Architecture Search for Spatio-temporal Prediction.</i>
     </a>
-    <i>ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. <b>SIGKDD 2020</b></i>
+    <i><b>SIGKDD 2020</b></i>
   </li>
 
   <li style="padding-left: 0; margin-left: 0;">
@@ -173,7 +173,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
     <a href="http://iris.kangry.net/pdf/yexinKDD2019.pdf" style="text-decoration: none; color: blue;">
       <i>Efficient and Effective Express via Contextual Cooperative Reinforcement Learning.</i>
     </a>
-    <i>ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. <b>SIGKDD 2019</b></i>
+    <i><b>SIGKDD 2019</b></i>
   </li>
 
   <li style="padding-left: 0; margin-left: 0;">
@@ -181,7 +181,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
     <a href="http://urban-computing.com/pdf/TKDE2019LiZheng.pdf" style="text-decoration: none; color: blue;">
       <i>Citywide Bike Usage Prediction in a Bike-Sharing System.</i>
     </a>
-    <i>IEEE Transactions on Knowledge and Data Engineering. <b>TKDE 2019</b></i>
+    <i><b>TKDE 2019</b></i>
   </li>
 
   <li style="padding-left: 0; margin-left: 0;">
@@ -189,7 +189,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
     <a href="http://urban-computing.com/pdf/KDD2018dynamic-bike-reposition.pdf" style="text-decoration: none; color: blue;">
       <i>Dynamic Bike Reposition: A Spatio-Temporal Reinforcement Learning Approach.</i>
     </a>
-    <i>ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. <b>SIGKDD 2018</b></i>
+    <i><b>SIGKDD 2018</b></i>
   </li>
 
   <li style="padding-left: 0; margin-left: 0;">
@@ -197,7 +197,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
     <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/traffic20prediction20in20a20bike20sharing20system.pdf" style="text-decoration: none; color: blue;">
       <i>Traffic Prediction in a Bike-Sharing System.</i>
     </a>
-    <i>ACM International Conference on Advances in Geographical Information Systems. <b>SIGSPATIAL 2015</b></i>
+    <i><b>SIGSPATIAL 2015</b></i>
   </li>
 </ul>
 <br>
