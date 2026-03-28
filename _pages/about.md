@@ -259,4 +259,4 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
 
 
 
-<img class="svg" src="/images/XJTU.png" width="70pt"> &nbsp;&nbsp;&nbsp;&nbsp; <img class="svg" src="/images/hkust_logo.png" width="50pt"> &nbsp;&nbsp; <img class="svg" src="/images/JD_COM.png" width="120pt"> &nbsp;&nbsp; <img class="svg" src="/images/BIGAI.png" width="300pt"> &nbsp;&nbsp;&nbsp;&nbsp; <img class="svg" src="/images/MSRA.png" width="80pt">
+[//]: # (<img class="svg" src="/images/XJTU.png" width="70pt"> &nbsp;&nbsp;&nbsp;&nbsp; <img class="svg" src="/images/hkust_logo.png" width="50pt"> &nbsp;&nbsp; <img class="svg" src="/images/JD_COM.png" width="120pt"> &nbsp;&nbsp; <img class="svg" src="/images/BIGAI.png" width="300pt"> &nbsp;&nbsp;&nbsp;&nbsp; <img class="svg" src="/images/MSRA.png" width="80pt">)

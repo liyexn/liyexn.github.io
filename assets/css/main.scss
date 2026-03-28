@@ -118,3 +118,36 @@ h1:before, .anchor:before {
 .page__content li {
   text-align: justify;
 }
+
+
+/* ===== Global Font: Times New Roman ===== */
+body, button, input, select, textarea {
+  font-family: "Times New Roman", Times, serif !important;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Times New Roman", Times, serif !important;
+}
+
+/* ===== Sidebar font (keep icons) ===== */
+.sidebar {
+  font-family: "Times New Roman", Times, serif !important;
+}
+
+/* Apply only to text elements */
+.sidebar p,
+.sidebar a,
+.sidebar li,
+.sidebar span,
+.sidebar div {
+  font-family: "Times New Roman", Times, serif !important;
+}
+
+/* ===== Footer font: Times New Roman ===== */
+.footer_copyright,
+.footer_copyright span,
+.footer_copyright a {
+  font-family: "Times New Roman", Times, serif !important;
+}
+

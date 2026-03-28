@@ -51,9 +51,10 @@
     }
   }
 
-  code {
-    background-color: mix(#fff, $notice-color, 95%)
-  }
+code {
+  background-color: mix(#fff, $notice-color, 95%);
+  font-family: "Times New Roman", Times, serif;
+}
 
   ul {
     &:last-child {
