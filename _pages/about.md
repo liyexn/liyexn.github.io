@@ -48,7 +48,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
 
 # 📝 &nbsp;&nbsp; Selected Publications
 <p style="font-size: 0.85em; color: gray; margin-top: -8px;">
-  <b>#</b> equal contribution &nbsp;&nbsp; <b>‡</b> corresponding authors
+  <b>§</b> equal contribution &nbsp;&nbsp; <b>#</b> corresponding authors
 </p>
 
 ## 2026
@@ -63,7 +63,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
   </li>
 
   <li style="padding-left: 0; margin-left: 0;">
-    Zheng Zhang, Ziwei Shan, Kaitao Song, <code>Yexin Li</code> <sup><b>‡</b></sup>, Kan Ren&thinsp;<sup><b>‡</b></sup>.
+    Zheng Zhang, Ziwei Shan, Kaitao Song, <code>Yexin Li</code> <sup><b>#</b></sup>, Kan Ren&thinsp;<sup><b>#</b></sup>.
     <a href="https://arxiv.org/pdf/2509.26578" style="text-decoration: none; color: blue;">
       <i>Linking Process to Outcome: Conditional Reward Modeling for LLM Reasoning.</i>
     </a>
@@ -71,7 +71,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
   </li>
 
   <li style="padding-left: 0; margin-left: 0;">
-    Jinjin Guo, <code>Yexin Li</code> <sup><b>‡</b></sup>, Zhichao Huang, Jun Fang, Zhiyuan Liu, Chao Liu, Pengzhang Liu, Qixia Jiang.
+    Jinjin Guo, <code>Yexin Li</code> <sup><b>#</b></sup>, Zhichao Huang, Jun Fang, Zhiyuan Liu, Chao Liu, Pengzhang Liu, Qixia Jiang.
     <a href="https://www.arxiv.org/pdf/2602.09066" style="text-decoration: none; color: blue;">
       <i>Spectral Disentanglement and Enhancement: A Dual-domain Contrastive Framework for Representation Learning.</i>
     </a>
@@ -88,7 +88,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
 
   <li style="padding-left: 0; margin-left: 0;">
     Zhixiang Zhang, Shuo Chen, <code>Yexin Li</code>, Feng Wang.
-    <a href="" style="text-decoration: none; color: blue;">
+    <a href="https://ojs.aaai.org/index.php/AAAI/article/view/40096" style="text-decoration: none; color: blue;">
       <i>ADAPT: Adaptive Decentralized Architecture with Perception-Aligned Training for Structural Generalization in Multi-Agent RL.</i>
     </a>
     <i><b>AAAI 2026</b></i>
@@ -126,7 +126,7 @@ and <a href="http://urban-computing.com/yuzheng">Dr. Yu Zheng</a>. My work has b
   </li>
 
   <li style="padding-left: 0; margin-left: 0;">
-    Siyuan Qi <sup><b>#</b></sup>, Shuo Chen <sup><b>#</b></sup>, <code>Yexin Li</code> <sup><b>#</b></sup>, Xiangyu Kong <sup><b>#</b></sup>, Junqi Wang <sup><b>#</b></sup>, Bangcheng Yang, Pring Wong, Yifan Zhong, Xiaoyuan Zhang, Zhaowei Zhang, Nian Liu, Wei Wang, Yaodong Yang, Song-Chun Zhu.
+    Siyuan Qi <sup><b>§</b></sup>, Shuo Chen <sup><b>§</b></sup>, <code>Yexin Li</code> <sup><b>§</b></sup>, Xiangyu Kong <sup><b>§</b></sup>, Junqi Wang <sup><b>§</b></sup>, Bangcheng Yang, Pring Wong, Yifan Zhong, Xiaoyuan Zhang, Zhaowei Zhang, Nian Liu, Wei Wang, Yaodong Yang, Song-Chun Zhu.
     <a href="https://arxiv.org/pdf/2401.10568" style="text-decoration: none; color: blue;">
       <i>CivRealm: A Learning and Reasoning Odyssey in Civilization for Decision-Making Agents.</i>
     </a>
